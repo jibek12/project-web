@@ -1,0 +1,28 @@
+ body{
+    background-color: #dfe9f5;
+}  
+ p{
+    border: 20px solid transparent;
+    background: #1f3f74;
+    margin-top: auto;
+    text-align: right;
+    
+}
+a{
+    text-decoration: none;
+    color: #1f3f74;
+    font-size: 30px;
+}
+h1{
+    color: cornflowerblue;
+}
+.btn{
+    color:#1f3f74;
+    font-size:1.7em;
+} 
+img {
+    float: right;
+    opacity: 0.2;
+    height: auto;
+    width: 500px;  
+  }
